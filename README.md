@@ -12,10 +12,9 @@ The dataset contained six tables with duplicate records, missing values, inconsi
 - Removed duplicate records
 - Handled missing and null values
 - Standardized formatting of inconsistent entries
-- Cleaned date formats and Trimmed  extra whitespaces
+- Cleaned date formats and Trimmed extra whitespaces
 - Date Validation
 - Substrings and Coalesce
-- Joined Tables
 - Create a view table 
 - Created a cleaner data for analysis
 
@@ -25,9 +24,8 @@ The dataset contained six tables with duplicate records, missing values, inconsi
 
 ## SQL Skills Used
   - SELECT statements
-  - WHERE, GROUP BY, ORDER BY clauses
+  - WHERE, GROUP BY, ORDER BY, ROW_NUMBER functions
   - CASE statements
-  - JOIN Tables
   - Temporary Table (temp-table)
   - Common Table Expressions(CTE)
   - Window Functions
