@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project focuses on cleaning and preparing data of a comprehensive Sales, Customer records, locations and product information of a company dataset using SQL.
+This project focuses on cleaning and preparing data of a real life comprehensive Sales, Customer records, locations and product information of a company dataset using SQL.
 
 ## Overview 
 The dataset contained six tables with duplicate records, missing values, inconsistent formatting and empty sapces which affects the accuracy of the data analysis. With SQL queries, i cleaned and transformed the dataset into a more organized and reliable format for analysis.
@@ -15,7 +15,7 @@ The dataset contained six tables with duplicate records, missing values, inconsi
 - Cleaned date formats and Trimmed extra whitespaces
 - Date Validation
 - Substrings and Coalesce
-- Create a view table 
+- Created view tables 
 - Created a cleaner data for analysis
 
 ## Tools Used
@@ -32,4 +32,4 @@ The dataset contained six tables with duplicate records, missing values, inconsi
   - Create Views Table for storage
 
 ## Conclusion
-After cleaning the dataset, the data is accurate and ready for further analysis. This Project will helped strengthen the understanding of SQL and practical data cleaning needed in sales and customer records related environment.
+After cleaning the dataset, the data is accurate and ready for further analysis. This Project will helped strengthen the understanding of SQL and practical data cleaning needed in sales and customer records related environments.
